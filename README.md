@@ -4,5 +4,6 @@
 
 - <b>Microsoft Azure</b>
   - [Configuring an on-site Active Directory using Azure VMs](https://github.com/TStraker83/configure-active-directory)
+- <b>Powershell</b>
   - [Active Directory Password Expiration Report](https://github.com/TStraker83/AD-Password-Expiration-Report)
 
